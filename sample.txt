@@ -1,0 +1,8 @@
+3m-KO-brain
+3m-KO-liver
+3m-WT-brain
+3m-WT-liver
+9m-KO-brain
+9m-KO-liver
+9m-WT-barin
+9m-WT-liver
